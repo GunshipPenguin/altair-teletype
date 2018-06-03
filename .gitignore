@@ -1,0 +1,19 @@
+# Output directories
+cmake-build-debug
+obj
+
+# Binaries
+lib8080test
+cpmloader
+*.bin
+
+# CMake files
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+.idea
+*.cbp
+*.com
+*.s
